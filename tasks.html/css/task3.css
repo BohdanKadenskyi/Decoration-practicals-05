@@ -1,0 +1,11 @@
+.box {
+  height: 100vh;
+  width: 100vw;
+  left: 0;
+  top: 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url('../image/task-03-image.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: fixed;
+}
